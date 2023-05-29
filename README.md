@@ -1,8 +1,8 @@
 
 # Sim-KyuMin
 
-* Spring Backend Developer
-* Hongik Univ 2019.03~
+* Spring 백엔ㄷ 개발자
+* 홍익대학교 컴퓨터공학과 2019.03~
 
 
 # 프로젝트
