@@ -1,7 +1,7 @@
 
 * Spring 백엔드 개발자
 * 홍익대학교 컴퓨터공학과 2019.03~
-* LIVID 백엔드 책 스터디 2023.01 ~
+* [LIVID](https://github.com/Learning-Is-Vital-In-Development) 백엔드 책 스터디 2023.01 ~
 * 큐시즘 27기 2023.03~2023.05
 
 
