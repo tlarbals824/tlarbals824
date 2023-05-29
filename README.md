@@ -1,5 +1,8 @@
 
+# Sim-KyuMin
 
+* Spring Backend Developer
+* Hongik Univ 2019.03~
 
 
 # 프로젝트
@@ -7,6 +10,10 @@
 2022.11~ : 개발자, 취준생, 대학생들의 스터디 모임 : [DevMatching](https://github.com/radar19/DevMatching)
 
 2023.03~ : 🐶반려동물과 함께한 시간들의 기록 : [펫모리](https://github.com/KUSITMS-27th-TEAM3/BackEnd)🐶 (큐시즘 우수상(3등))
+
+# 스터디
+
+2023.01.02~2023.03.07 : [Object 스터디](https://github.com/Learning-Is-Vital-In-Development/23-1-Objects) (LIVID)
 
 
 # 기술 스택
