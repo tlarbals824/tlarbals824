@@ -35,6 +35,7 @@
 ## DB
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/H2-4479A1?style=flat-square&logo=H2&logoColor=white"/></a>
 
 ## Infra
 
