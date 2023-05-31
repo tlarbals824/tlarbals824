@@ -14,6 +14,7 @@
 # 스터디
 
 2023.01.02~2023.03.07 : [Object 스터디](https://github.com/Learning-Is-Vital-In-Development/23-1-Objects) (LIVID)
+2023.01.09~2023.03.27 : [Effective-Java 스터디](https://github.com/Learning-Is-Vital-In-Development/23-4-effective_java) (LIVID)
 
 
 # 기술 스택
