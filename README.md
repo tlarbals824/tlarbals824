@@ -53,5 +53,11 @@
 
 2023.01.09~2023.03.27 : [Effective-Java 스터디](https://github.com/Learning-Is-Vital-In-Development/23-4-effective_java) (LIVID)
 
+2023.07 ~             : [Head First Design Patterns 스터디(진행중)](https://github.com/Learning-Is-Vital-In-Development/23-13-DesignPattern) (LIVID) 
+
+2023.07 ~             : [Optimizing Java 스터디(진행중)](https://github.com/JSON-loading-and-unloading/Optimizing-Java) 
+
+2023.07 ~             : [알고리즘 스터디(진행중)](https://github.com/JSON-loading-and-unloading/Algorithm)
+
 
 
