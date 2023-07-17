@@ -6,7 +6,7 @@
 
 # 기술 스택
 
-## Framework&Library
+## Language&Framework
 
 <img src="https://img.shields.io/badge/java-6DB33F?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
