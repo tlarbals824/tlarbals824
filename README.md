@@ -3,6 +3,7 @@
 * 홍익대학교 컴퓨터공학과 2019.03~
 * [LIVID](https://github.com/Learning-Is-Vital-In-Development) 백엔드 책 스터디 2023.01 ~
 * 큐시즘 27기 2023.03~2023.05
+* Pawith 2023.07~
 
 # 기술 스택
 
@@ -36,14 +37,21 @@
 
 2022.11~ : 개발자, 취준생, 대학생들의 스터디 모임 : [DevMatching](https://github.com/radar19/DevMatching)
 
-2023.03~ : 🐶반려동물과 함께한 시간들의 기록 : [펫모리](https://github.com/KUSITMS-27th-TEAM3/BackEnd)🐶 (큐시즘 우수상(3등))
+2023.03~ : 🐶반려동물과 함께한 시간들의 기록 : [펫모리](https://github.com/KUSITMS-27th-TEAM3/BackEnd)🐶 
+            - 큐시즘 우수상(3등)
 
+2023.07~ : 함께 이뤄가는 애완 공유 TODO 서비스 : [Pawith](https://github.com/TEAM-SAMSION/Backend)
+            - 캠퍼스타운 창업동아리 네트워크 창업캠프 입상
 
 - 펫모리
   - redis와 spring의 @Cacheable을 통해 카운트 쿼리와 같이 일부 쿼리를 캐싱하였음 → 앨범 정보 100건 조회시 30%(200ms -> 150ms) 성능향상
   - 애플리케이션 서비스에서 도메인 서비스를 조합하여 하나의 기능을 만드는 퍼사드 패턴을 사용하여 코드 재사용성을 높였으며 순환참조 가능성을 줄임
   - 스프링 이벤트의 강력한 추상화를 통해 물리적 의존성을 논리적 의존성으로 변경하여 서비스 클래스의 의존성의 수를 줄임
   - 모든 컨트롤러, 서비스에 대한 테스트를 작성하여 예상하지 못한 상황 발생을 막을 수 있었음
+ 
+- Pawith
+  
+
 
 
 
