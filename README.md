@@ -38,10 +38,10 @@
 2022.11~ : 개발자, 취준생, 대학생들의 스터디 모임 : [DevMatching](https://github.com/radar19/DevMatching)
 
 2023.03~ : 🐶반려동물과 함께한 시간들의 기록 : [펫모리](https://github.com/KUSITMS-27th-TEAM3/BackEnd)🐶 
-            - 큐시즘 우수상(3등)
+* 큐시즘 우수상(3등)
 
 2023.07~ : 함께 이뤄가는 애완 공유 TODO 서비스 : [Pawith](https://github.com/TEAM-SAMSION/Backend)
-            - 캠퍼스타운 창업동아리 네트워크 창업캠프 입상
+* 캠퍼스타운 창업동아리 네트워크 창업캠프 입상
 
 - 펫모리
   - redis와 spring의 @Cacheable을 통해 카운트 쿼리와 같이 일부 쿼리를 캐싱하였음 → 앨범 정보 100건 조회시 30%(200ms -> 150ms) 성능향상
