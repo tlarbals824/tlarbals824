@@ -103,9 +103,10 @@
 
 2023.07 ~ 2023.09    : [Head First Design Patterns 스터디](https://github.com/Learning-Is-Vital-In-Development/23-13-DesignPattern) (LIVID) 
 
-2023.07 ~            : [Optimizing Java 스터디(진행중)](https://github.com/JSON-loading-and-unloading/Optimizing-Java) 
+2023.07 ~ 2023.10    : [Optimizing Java 스터디(진행중)](https://github.com/JSON-loading-and-unloading/Optimizing-Java) 
 
 2023.07 ~            : [알고리즘 스터디(진행중)](https://github.com/JSON-loading-and-unloading/Algorithm)
 
+2023.10 ~            : [도커 교과서(진행중)](https://github.com/Learning-Is-Vital-In-Development/23-16-docker-textbook-2)
 
 
