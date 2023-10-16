@@ -93,13 +93,6 @@
 * 캠퍼스타운 창업동아리 네트워크 창업캠프 입상
 
 
-
-
-  
-
-
-
-
 # 스터디
 
 2023.01 ~ 2023.03    : [Object 스터디](https://github.com/Learning-Is-Vital-In-Development/23-1-Objects) (LIVID)
@@ -113,5 +106,9 @@
 2023.07 ~            : [알고리즘 스터디(진행중)](https://github.com/JSON-loading-and-unloading/Algorithm)
 
 2023.10 ~            : [도커 교과서(진행중)](https://github.com/Learning-Is-Vital-In-Development/23-16-docker-textbook-2)
+
+# 알고리즘
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tlarbals824)](https://solved.ac/tlarbals824)
 
 
