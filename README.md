@@ -39,7 +39,7 @@
 
 <details>
   <summary>2023.03~ : 🐶반려동물과 함께한 시간들의 기록 : 
-    <a href = "https://github.com/KUSITMS-27th-TEAM3/BackEnd">펫모리]🐶</a> 
+    <a href = "https://github.com/KUSITMS-27th-TEAM3/BackEnd">펫모리🐶</a> 
   </summary>
   <div markdown="1">
 
@@ -101,7 +101,7 @@
 
 2023.07 ~ 2023.09    : [Head First Design Patterns 스터디](https://github.com/Learning-Is-Vital-In-Development/23-13-DesignPattern) (LIVID) 
 
-2023.07 ~ 2023.10    : [Optimizing Java 스터디(진행중)](https://github.com/JSON-loading-and-unloading/Optimizing-Java) 
+2023.07 ~ 2023.10    : [Optimizing Java 스터디](https://github.com/JSON-loading-and-unloading/Optimizing-Java) 
 
 2023.07 ~            : [알고리즘 스터디(진행중)](https://github.com/JSON-loading-and-unloading/Algorithm)
 
