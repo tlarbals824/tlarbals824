@@ -96,6 +96,7 @@
 # 스터디
 
 <details>
+  <summary>스터디</summary>
 
 2023.01 ~ 2023.03    : [Object 스터디](https://github.com/Learning-Is-Vital-In-Development/23-1-Objects) (LIVID)
 
