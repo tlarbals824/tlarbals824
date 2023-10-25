@@ -14,10 +14,6 @@
 <img src="https://img.shields.io/badge/SpringJpa-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/></a>
 
-## Test
-<img src="https://img.shields.io/badge/junit5-25A162?style=flat-square&logo=junit5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/mockito-6DB33F?style=flat-square&logo=&logoColor=white"/></a>
-
 ## DB
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a>
@@ -95,9 +91,6 @@
 
 # 스터디
 
-<details>
-  <summary>스터디</summary>
-
 2023.01 ~ 2023.03    : [Object 스터디](https://github.com/Learning-Is-Vital-In-Development/23-1-Objects) (LIVID)
 
 2023.01 ~ 2023.03    : [Effective-Java 스터디](https://github.com/Learning-Is-Vital-In-Development/23-4-effective_java) (LIVID)
@@ -110,9 +103,7 @@
 
 2023.10 ~            : [도커 교과서(진행중)](https://github.com/Learning-Is-Vital-In-Development/23-16-docker-textbook-2)
 
-</details>
-
-# 
+# 블로그
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=b911099&theme=default)](https://b911099.tistory.com/)
 
