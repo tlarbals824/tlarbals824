@@ -95,6 +95,8 @@
 
 # 스터디
 
+<details>
+
 2023.01 ~ 2023.03    : [Object 스터디](https://github.com/Learning-Is-Vital-In-Development/23-1-Objects) (LIVID)
 
 2023.01 ~ 2023.03    : [Effective-Java 스터디](https://github.com/Learning-Is-Vital-In-Development/23-4-effective_java) (LIVID)
@@ -107,8 +109,10 @@
 
 2023.10 ~            : [도커 교과서(진행중)](https://github.com/Learning-Is-Vital-In-Development/23-16-docker-textbook-2)
 
-# 알고리즘
+</details>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tlarbals824)](https://solved.ac/tlarbals824)
+# 
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=b911099&theme=default)](https://b911099.tistory.com/)
 
 
