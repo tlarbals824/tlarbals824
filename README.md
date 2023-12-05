@@ -103,8 +103,6 @@
 
 2023.10 ~            : [도커 교과서(진행중)](https://github.com/Learning-Is-Vital-In-Development/23-16-docker-textbook-2)
 
-# 블로그
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=b911099&theme=default)](https://b911099.tistory.com/)
+2023.11 ~            : [오브젝트 (진행중)](https://github.com/JSON-loading-and-unloading/Object-Study)
 
 
