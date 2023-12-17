@@ -101,7 +101,7 @@
 
 2023.07 ~            : [알고리즘 스터디(진행중)](https://github.com/JSON-loading-and-unloading/Algorithm)
 
-2023.10 ~            : [도커 교과서(진행중)](https://github.com/Learning-Is-Vital-In-Development/23-16-docker-textbook-2)
+2023.10 ~ 2023.12    : [도커 교과서](https://github.com/Learning-Is-Vital-In-Development/23-16-docker-textbook-2)
 
 2023.11 ~            : [오브젝트 (진행중)](https://github.com/JSON-loading-and-unloading/Object-Study)
 
