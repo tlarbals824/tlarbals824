@@ -4,6 +4,7 @@
 * [LIVID](https://github.com/Learning-Is-Vital-In-Development) 백엔드 책 스터디 2023.01 ~
 * 큐시즘 27기 2023.03~2023.05
 * Pawith 2023.07~
+* 큐시즘 29기 교육기획팀 2024.01~
 
 # 기술 스택
 
