@@ -50,7 +50,7 @@
 * 큐시즘 우수상(3등)
 
 <details>
-  <summary >2023.07~ : 함께 이뤄가는 애완 공유 TODO 서비스 : 
+  <summary >2023.07~ : 반려동물 공동 관리 서비스 : 
     <a href = "https://github.com/TEAM-SAMSION/Backend">Pawith</a>
   </summary>
   <div markdown="1">
