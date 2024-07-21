@@ -8,8 +8,6 @@
 
 # 프로젝트
 
-* 큐시즘 우수상(3등)
-
 <details>
   <summary >2023.07~ : 반려동물 공동 관리 서비스 : 
     <a href = "https://github.com/TEAM-SAMSION/Backend">Pawith</a>
