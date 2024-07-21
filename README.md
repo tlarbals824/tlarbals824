@@ -52,4 +52,9 @@
 * 캠퍼스타운 창업동아리 네트워크 창업캠프 입상(3등)
 
 
+# 블로그
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=tlarbals824)](https://velog.io/@tlarbals824)
+
+
 
