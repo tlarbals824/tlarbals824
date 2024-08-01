@@ -11,7 +11,6 @@
 <details>
   <summary >2023.07~ : 반려동물 공동 관리 서비스 : 
     <a href = "https://github.com/TEAM-SAMSION/Backend">Pawith</a>
-    <a href= "https://apps.apple.com/kr/app/%ED%8F%AC%EC%9E%87-pawith/id6472612736">앱스토어</a>
   </summary>
   
 
